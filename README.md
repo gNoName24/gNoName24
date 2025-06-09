@@ -6,17 +6,7 @@
 
 Вы можете написать мне в Discord: @noyname24
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true&hide_rank=true&theme=dark&hide_border=true&bg_color=00000000&locale=ru)
 
 <!--
 **gNoName24/gNoName24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
