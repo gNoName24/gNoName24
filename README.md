@@ -1,24 +1,29 @@
-Добро пожаловать на мой профиль в Github!
+<h1 align="center">~ NoName24</h1>
+<p align="center">Добро пожаловать на мой профиль в Github!</p>
 
 Многие часы своего свободного времени я посвящаю программированию, и по возможности, публикую свои работы здесь, на Github, с публичным доступом (тоже по возможности)
 
 Все видимые вам репозитории ниже являются потенциальными проектами на финальный результат (возможно, с будущими дальнейшими обновлениями), или же некоторые из них уже закончены
 
-Вы можете написать мне в Discord: @noyname24
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true&hide_rank=true&theme=dark&hide_border=true&bg_color=00000000&locale=ru)
 
-<!--
-**gNoName24/gNoName24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true" />
+</picture>
 
-Here are some ideas to get you started:
+## 🦾 На чем работаю
+- **ОС:** Windows 10 (основная), Arch Linux (второстепенная)
+- **Языки программирования:** Processing (Java), C++
+- **Имеется умеренный опыт с:** PHP, HTML + CSS
+- **Среды разработки / Инструменты:** Visual Studio 2022, Processing IDE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤙 Связаться
+Вы можете написать мне в Discord: `@noyname24`
