@@ -17,11 +17,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&locale=ru" />
 </picture>
 
+---
+
 ## 🦾 На чем работаю
 - **ОС:** Windows 10 (основная), Arch Linux (второстепенная)
 - **Языки программирования:** Processing (Java), C++
 - **Имеется умеренный опыт с:** PHP, HTML + CSS
-- **Среды разработки / Инструменты:** Visual Studio 2022, Processing IDE
+- **Среды разработки:** Visual Studio 2022, Processing IDE
+
+---
 
 ## 🤙 Связаться
 Вы можете написать мне в Discord: `@noyname24`
+
+![](https://komarev.com/ghpvc/?username=gNoName24&style=for-the-badge&color=yellow&abbreviated=true&label=Просмотры+профиля)
