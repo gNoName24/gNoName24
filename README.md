@@ -9,14 +9,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&locale=ru&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&locale=ru"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gNoName24&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&locale=ru" />
 </picture>
 
 ## 🦾 На чем работаю
