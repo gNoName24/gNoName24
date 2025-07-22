@@ -23,7 +23,7 @@
 - **ОС:** Windows 10 (основная), Arch Linux (второстепенная)
 - **Языки программирования:** Processing (Java), C++
 - **Имеется умеренный опыт с:** PHP, HTML + CSS
-- **Среды разработки:** Visual Studio 2022, Processing IDE
+- **Среды разработки:** Visual Studio Code, Processing IDE
 
 ---
 
