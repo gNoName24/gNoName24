@@ -22,10 +22,10 @@ All the repositories visible to you below are either potential projects leading 
 ---
 
 ## 🦾 What I'm Working With
-- **OS:** Windows 10 (main), Arch Linux (secondary)
-- **Programming Languages:** Processing (Java), C++
+- **OS:** Arch Linux
+- **Programming Languages:** C++, Processing (Java)
 - **Moderate experience with:** PHP, HTML + CSS
-- **Development Environments:** Visual Studio Code, Processing IDE
+- **Development Environments:** KDevelop
 
 ---
 
