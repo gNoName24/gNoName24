@@ -23,8 +23,8 @@ All the repositories visible to you below are either potential projects leading 
 
 ## 🦾 What I'm Working With
 - **OS:** Arch Linux
-- **Programming Languages:** C++, Processing (Java)
-- **Moderate experience with:** PHP, HTML + CSS
+- **Programming Languages:** C++, Processing (Java) (Set aside for now)
+- **Moderate experience with:** PHP, Python, HTML + CSS
 - **Development Environments:** KDevelop
 
 ---
