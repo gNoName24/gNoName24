@@ -1,6 +1,8 @@
 <h1 align="center">~ NoName24</h1>
 <p align="center">Welcome to my profile on Github!</p>
 
+(Когда нибудь я переделаю это)
+
 (README так-же доступен на [русском языке](https://github.com/gNoName24/gNoName24/blob/main/README_RU.md))
 
 I dedicate many hours of my free time to programming and, whenever possible, publish my work here on GitHub with public access (also when possible).
